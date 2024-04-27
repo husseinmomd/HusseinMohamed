@@ -2,7 +2,7 @@
 
 ## I'm Hussein Mohamed, a software developer.
 
-I build high quality Android and iOS mobile apps with Flutter.
+I build high quality Android and iOS mobile apps with React Native/Flutter.
 
 #### Connect with me
 
