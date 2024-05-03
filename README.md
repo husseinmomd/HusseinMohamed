@@ -4,19 +4,14 @@
 
 I build high quality Android and iOS mobile apps with React Native/Flutter.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=husseinmomd)
-
-
 #### Connect with me
 
 <p align="left">
     <a href="https://www.linkedin.com/in/husseinmomd/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
     <a href="https://twitter.com/HusseinMomd" target="_blank"> <img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 </a>
-
 </p>
 
- 
 #### Experienced in
 
 <p align="left"> 
@@ -26,3 +21,4 @@ I build high quality Android and iOS mobile apps with React Native/Flutter.
     <a href="https://www.flutter.dev" target="_blank"> <img src="https://img.icons8.com/fluency/48/undefined/flutter.png"/></a> 
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=husseinmomd)
