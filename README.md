@@ -4,6 +4,9 @@
 
 I build high quality Android and iOS mobile apps with React Native/Flutter.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=husseinmomd)
+
+
 #### Connect with me
 
 <p align="left">
@@ -13,7 +16,6 @@ I build high quality Android and iOS mobile apps with React Native/Flutter.
 
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=husseinmomd)
  
 #### Experienced in
 
