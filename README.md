@@ -1,4 +1,4 @@
-### Hi there, 👋
+![image](https://github.com/husseinmomd/husseinmomd/assets/85677008/036f23cf-7624-4c0f-8fd4-6c3267750b7b)### Hi there, 👋
 
 ## I'm Hussein Dahir, a software developer.
 
@@ -12,6 +12,8 @@ With a strong background in both front-end and back-end development, I ensure se
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/></a> 
     <a href="https://dart.dev" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/dart.png"/></a>
     <a href="https://www.flutter.dev" target="_blank"> <img src="https://img.icons8.com/fluency/48/undefined/flutter.png"/></a> 
+      <a href="https://nodejs.org/en" target="_blank"> <img src="https://www.flaticon.com/free-icon/programing_15484303?term=node+js&page=1&position=18&origin=search&related_id=15484303"/></a> 
+     <a href="https://nestjs.com/" target="_blank"> <img src="https://icon-icons.com/icon/file-type-nestjs/130355"/></a> 
 </p>
 
 
