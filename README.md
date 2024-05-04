@@ -1,8 +1,8 @@
 ### Hi there, 👋
 
-## I'm Hussein Mohamed, a software developer.
+## I'm Hussein Dahir, a software developer.
 
-I build high quality Android and iOS mobile apps with React Native/Flutter.
+With a strong background in both front-end and back-end development, I ensure seamless user experiences while staying abreast of the latest trends and technologies in mobile and web development.
 
 #### Connect with me
 
