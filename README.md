@@ -12,7 +12,7 @@ With a strong background in both front-end and back-end development, I ensure se
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/></a> 
     <a href="https://dart.dev" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/dart.png"/></a>
     <a href="https://www.flutter.dev" target="_blank"> <img src="https://img.icons8.com/fluency/48/undefined/flutter.png"/></a> 
-      <a href="https://nodejs.org/en" target="_blank"> <img src="https://img.icons8.com/icon/hsPbhkOH4FMe/node-js"/></a> 
+      <a href="https://nodejs.org/en" target="_blank"> <img src="https://img.icons8.com/icon/hsPbhkOH4FMe/node-js.png"/></a> 
      <a href="https://nestjs.com/" target="_blank"> <img src="https://icon-icons.com/icon/file-type-nestjs/130355"/></a> 
 </p>
 
