@@ -1,6 +1,6 @@
 ### Hi there, 👋
 
-## I'm Hussein Dahir, a software developer.
+## I'm Hussein, a software developer.
 
 With a strong background in both front-end and back-end development, I ensure seamless user experiences while staying abreast of the latest trends and technologies in mobile and web development.
 
