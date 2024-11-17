@@ -15,8 +15,6 @@ With a strong background in both front-end and back-end development, I ensure se
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=husseinmomd)
-
 
 #### Connect with me
 
